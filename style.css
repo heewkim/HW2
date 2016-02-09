@@ -21,7 +21,7 @@ nav{
 	width:87%;
 	overflow:hidden;
 	margin:0 auto; 
-	font-size: 20;
+
 	padding:10px; 
 	 border: 2px solid;
     border-radius: 25px;
@@ -62,7 +62,7 @@ text-align:center;
 	
 }
 
-footer{ line-height: -8.0;
+footer{ line-height: 1.0;
 	list-style-type:none;  
 	background-color: #d5cae6;
 	width: 500px;
